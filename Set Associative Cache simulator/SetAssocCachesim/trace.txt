@@ -1,0 +1,10 @@
+# Sample memory trace file
+# Addresses in hexadecimal, one per line
+0x0000A3C4
+0x0000A3D0
+0x0000A3C4
+0x0000A3D0
+0x0000B3C4
+0x0000C3C4
+0x0000A3C4
+0x0000D3C4
